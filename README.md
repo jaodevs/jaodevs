@@ -4,7 +4,7 @@
 
 
 
-- 😎 I study several languages such as Javascript, Python, SQL... 
+- 😎 I study several languages such as Javascript,typescript SQL... 
 - 📫 Contact me at: jvvjoaovitor29@gmail.com
 <div align="center">
   <a href="https://github.com/jaodevs">
