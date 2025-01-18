@@ -5,7 +5,7 @@
 
 
 - 😎 I study several languages such as Javascript,typescript SQL... 
-- 📫 Contact me at: jvvjoaovitor559@gmail.co
+- 📫 Contact me at: jvvjoaovitor559@gmail.com
 <div align="center">
   <a href="https://github.com/jaodevs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaodevs&show_icons=false&theme=algolia&include_all_commits=true&count_private=true"/>
